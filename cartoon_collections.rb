@@ -8,7 +8,7 @@ def summon_captain_planet(planeteer_calls)
   # Use an Enumerable to capitalize and add '!' to every element in the passed in array
   # Return a new array of the results
   calls = ["earth", "wind", "fire", "water", "heart"]
-  planeteer_calls = 
+  planeteer_calls = ["Earth!", "Wind!", "Fire!", "Water!", "Heart!"]
 end
 
 def long_planeteer_calls(planeteer_calls)
