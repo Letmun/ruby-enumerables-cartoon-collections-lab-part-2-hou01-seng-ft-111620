@@ -9,7 +9,7 @@ def summon_captain_planet(planeteer_calls)
   # Return a new array of the results
   calls = ["earth", "wind", "fire", "water", "heart"]
   planeteer_calls = ["Earth!", "Wind!", "Fire!", "Water!", "Heart!"]
-  other_calls=
+  other_calls= ["Plants!", "Humans!", "Mushrooms!", "Brains!"]
 end
 
 def long_planeteer_calls(planeteer_calls)
